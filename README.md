@@ -1,1 +1,1 @@
-# SQE-PROJECT
+# Software Quality Engineering (Project)
